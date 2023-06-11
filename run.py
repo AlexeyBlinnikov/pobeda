@@ -14,9 +14,8 @@ from aiogram.dispatcher.filters import Text
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-TOKEN = "5134051967:AAEf72wUXntvg8ECcV-sarKJd3RtQWw-YIw"
-# TOKEN = "5524654123:AAHfHmtyG1-s1G0JtZFbQX7FInrgh9fo50g"
-openai.api_key = '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'
+TOKEN = ""
+openai.api_key = ''
 gopro_correct = []
 mac_correct = []
 electro_correct = []
